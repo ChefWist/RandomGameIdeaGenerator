@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    display:inline-block;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+#title {
+    font-size: 2.5em;
+}
+#container label {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin: 5px 20px;
+}
+.box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    font-size: 1.25em;
+    font-weight: bold;
+    text-align: center;
+    overflow: scroll;
+}
+button {
+    font-size: 2.5rem;
+    border-radius: 5px;
+    background-color: #bdbdbd;
+    border: none;
+}
